@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Test Automation with Python
+- 🌱 I’m currently learning DataSceince
+- 👯 I’m looking to collaborate on any test automation project.
+- 💬 Ask me about anything on Test Automation you need.
 
 <!--
 **masudr4n4/masudr4n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
