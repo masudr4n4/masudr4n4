@@ -9,9 +9,8 @@
 * <a href='https://github.com/masudr4n4/speedhome'>Rent Company UI automation</a>
 * <a href='https://github.com/masudr4n4/remoteplatz'> Api test automation with Pytest </a>
 * <a href='https://github.com/masudr4n4/rest_api_testing_postman'> Api Test Automation with Postman collection </a> <br>
-There is more lot with UI and API automation but can not share here because of terms with companies 😄 
-
-
+There is more lot with UI and API automation but can not share here because of terms with companies 😄 <br>
+Reach me: masud.rana@toptal.com
 <!--
 **masudr4n4/masudr4n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
