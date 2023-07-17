@@ -8,7 +8,7 @@
 * <a href='https://github.com/masudr4n4/insomnia-cookies-ui-automation'> Insomnia Biscuit Factory UI Test Automation with Pytest </a>
 * <a href='https://github.com/masudr4n4/speedhome'>Rent Company UI automation</a>
 * <a href='https://github.com/masudr4n4/remoteplatz'> Api test automation with Pytest </a>
-* <a href='https://github.com/masudr4n4/rest_api_testing_postman'> Api Test Automation with Postman collection </a>
+* <a href='https://github.com/masudr4n4/rest_api_testing_postman'> Api Test Automation with Postman collection </a> <br>
 There is more lot with UI and API automation but can not share here because of terms with companies 😄 
 
 
