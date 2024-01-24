@@ -5,7 +5,7 @@
 - 💬 Ask me about anything on Test Automation you need.<br>
 ## Listing some previous works experience have done by me ;)
 * <a href='https://github.com/masudr4n4/assure_test_automation'>Finance UI automation With Behave  (Selenium)</a>
-* <a href='https://github.com/masudr4n4/insomnia-cookies-ui-automation'> Insomnia Biscuit Factory UI Test Automation with Pytest  (Selenium)</a>
+* <a href='https://github.com/masudr4n4/insomnia-cookies-ui-automation'> Insomnia Cookies Factory UI Test Automation with Pytest  (Selenium)</a>
 * <a href='https://github.com/masudr4n4/speedhome'>Rent Company UI automation (Selenium)</a>
 * <a href='https://github.com/masudr4n4/remoteplatz'> Api test automation with Pytest </a>
 * <a href='https://github.com/masudr4n4/rest_api_testing_postman'> Api Test Automation with Postman collection </a> <br>
