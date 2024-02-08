@@ -11,7 +11,7 @@
 * <a href='https://github.com/masudr4n4/rest_api_testing_postman'> Api Test Automation with Postman collection </a> <br>
 ## Extra Playground
 * <a href="https://github.com/masudr4n4/auto_meta"> Automate MetaMask Wallet for NFT Claims</a>
-
+* <a href="git remote add origin https://github.com/masudr4n4/telostracker_telegram_bot.git"> Track Telos price and update in Telegram group</a>
 
 <b> There is more lot with UI and API automation but can not share here because of terms with companies 😄 </b><br>
 Reach me: masud.rana@toptal.com
