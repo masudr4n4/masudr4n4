@@ -22,7 +22,7 @@ Reach me: masud.rana@toptal.com
 https://github.com/masudr4n4/landing-saas-portfolio
 https://github.com/masudr4n4/tea-house-with-daisy
 https://github.com/masudr4n4/GeometryCalc
-
+Coming more soon .....
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
