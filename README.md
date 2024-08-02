@@ -14,9 +14,9 @@
 * <a href="https://github.com/masudr4n4/telostracker_telegram_bot.git"> Track Telos price and update in Telegram group </a>
 
 ## Web Development
-* https://github.com/masudr4n4/landing-saas-portfolio
-* https://github.com/masudr4n4/tea-house-with-daisy
-* https://github.com/masudr4n4/GeometryCalc <br>
+* [https://github.com/masudr4n4/landing-saas-portfolio](https://masudr4n4.github.io/landing-saas-portfolio/)
+* [https://github.com/masudr4n4/tea-house-with-daisy](https://masudr4n4.github.io/tea-house-with-daisy/)
+* [https://github.com/masudr4n4/GeometryCalc](https://masudr4n4.github.io/GeometryCalc) <br>
 Coming more soon ....
 
 <b> There is more lot with UI and API automation but can not share here because of terms with companies 😄 </b><br>
