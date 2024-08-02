@@ -13,16 +13,18 @@
 * <a href="https://github.com/masudr4n4/auto_meta"> Automate MetaMask Wallet for NFT Claims</a>
 * <a href="https://github.com/masudr4n4/telostracker_telegram_bot.git"> Track Telos price and update in Telegram group </a>
 
+## Web Development
+* https://github.com/masudr4n4/landing-saas-portfolio
+* https://github.com/masudr4n4/tea-house-with-daisy
+* https://github.com/masudr4n4/GeometryCalc
+Coming more soon ....
+
 <b> There is more lot with UI and API automation but can not share here because of terms with companies 😄 </b><br>
 Reach me: masud.rana@toptal.com
 <!--
 **masudr4n4/masudr4n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Web Development
-https://github.com/masudr4n4/landing-saas-portfolio
-https://github.com/masudr4n4/tea-house-with-daisy
-https://github.com/masudr4n4/GeometryCalc
-Coming more soon .....
+.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
