@@ -21,7 +21,9 @@
 Coming more soon ....
 
 <b> There is more lot with UI and API automation but can not share here because of terms with companies 😄 </b><br>
-Reach me: masud.rana@toptal.com
+Reach me: masud.rana@toptal.com <br>
+https://upstackhq.com/developers/team/masud-r <br>
+https://www.toptal.com/resume/masud-rana
 <!--
 **masudr4n4/masudr4n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://upstackhq.com/developers/team/masud-r
