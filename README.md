@@ -24,7 +24,8 @@ Coming more soon ....
 Reach me: masud.rana@toptal.com
 <!--
 **masudr4n4/masudr4n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://upstackhq.com/developers/team/masud-r
+https://www.toptal.com/resume/masud-rana
 .
 Here are some ideas to get you started:
 
